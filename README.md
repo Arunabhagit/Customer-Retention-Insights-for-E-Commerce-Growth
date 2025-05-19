@@ -19,4 +19,10 @@ Both datasets represent clustered samples of 800 customers each, drawn from a si
 
 The primary objective of this project is to analyze the effectiveness of the April 2025 customer retention campaign aimed at re-engaging inactive customers through targeted loyalty offers. Key goals include identifying the targeted customer group, calculating the campaign's conversion rate, and measuring changes in customer behavior post-campaign. The project also evaluates revenue impact, customer segmentation performance, compareing with last year campaign. Additionally, it aims to uncover which marketing channels and customer segments responded best, enabling data-driven decisions to optimize future campaigns and improve long-term customer retention.
 
+# Insights Got From 2025 April Customer Retention Campaign 
 
+After receiving the mail from the Marketing Lead, I created a Power BI dashboard to analyze the April 2025 campaign data. Based on this analysis, I generated key insights and answered specific business questions posed by the Marketing Lead to evaluate the campaign's effectiveness.
+
+![photo 1](https://github.com/user-attachments/assets/5df0f14b-fa8b-442e-957b-526505c6685c)
+
+Out of a sample of **800** customers, **659** received the campaign offer. Among them, **522** customers accepted the offer and made a purchase, demonstrating a strong engagement rate and indicating the campaign's effectiveness in driving customer action.
