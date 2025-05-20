@@ -63,12 +63,13 @@ Let’s compare the June 2024 retention campaign with this year’s April 2025 c
 
 ![photo 11](https://github.com/user-attachments/assets/fee461e3-8b5b-43bc-a8ed-3604d701853a)
 
-Compared to last year’s campaign, we sent 5% more offers this year. On the positive side, customer purchases increased by **21%**, indicating stronger engagement. Additionally, the number of customers who did not make a purchase decreased by **25%**, reflecting a significant improvement in campaign effectiveness and customer response.
+Compared to last year’s campaign, we sent **5%** more offers this year. On the positive side, customer purchases increased by **21%**, indicating stronger engagement. Additionally, the number of customers who did not make a purchase decreased by **25%**, reflecting a significant improvement in campaign effectiveness and customer response.
 
 ![photo 12](https://github.com/user-attachments/assets/0006f7be-8525-4e46-83cc-d7a402da08e2)
 
 The conversion rate—representing the percentage of customers who made a purchase after receiving the offer—increased by **11%** compared to last year. Furthermore, post-campaign revenue saw a remarkable **50%** growth, highlighting a significant improvement in both customer response and overall campaign success year over year.
 
+![photo 15](https://github.com/user-attachments/assets/85277c2c-370f-45b2-b4d0-03c6818a05f9)
 
 
 
