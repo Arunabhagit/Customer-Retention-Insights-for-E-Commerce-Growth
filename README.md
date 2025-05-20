@@ -1,4 +1,4 @@
-# LoyaltyLens: E-Commerce Retention Campaign Analysis
+#  E-Commerce Retention Campaign Analysis
 
 # Introduction
 
