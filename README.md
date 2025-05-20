@@ -37,12 +37,19 @@ Out of the **800** customers analyzed, **68%** remained active following the off
 
 ![photo 8](https://github.com/user-attachments/assets/30325cbf-8aef-45b9-9f98-53a9d35fa256)
 
-The chart illustrates that the Groceries category achieved the highest total revenue at **35.16K**, closely followed by Electronics and Beauty. In all categories, active customers contributed the majority of the revenue, reflecting strong engagement post-campaign. Even in categories like Books and Home, inactive users showed notable participation, indicating broad campaign impact.
+The chart illustrates that the **Groceries** category achieved the highest total revenue at **35.16K**, closely followed by Electronics and Beauty. In all categories, active customers contributed the majority of the revenue, reflecting strong engagement post-campaign. Even in categories like Books and Home, inactive users showed notable participation, indicating broad campaign impact.
 
 ![photo 5](https://github.com/user-attachments/assets/6afb1f4b-61a0-48dd-aa4d-5dd511ff6c7d)
 
 It shows the number of customers reached by each campaign type across different product categories. As we can see, **App Notifications** performed best overall, especially for **Groceries** product, which had the highest customer engagement. **SMS Reminders** also did quite well, particularly for the **Beauty** and **Books** categories.
 Meanwhile, **Loyalty Offers** and **Emails** showed steady performance across all categories, indicating they’re reliable methods for broader reach. This chart helps us understand which campaign types work best for specific product categories, and can guide us in optimizing future marketing strategies.
 
+![photo 6](https://github.com/user-attachments/assets/b4860d2c-63fb-441e-b2c9-96b94432e037)
 
+It’s clear that the **West** region achieved the highest conversion rate at **8.33**, indicating that customers in this zone responded most positively to the offer. The **North** also performed well at **8.13**, followed by the **South** and **East**. These insights suggest that customers in the West were the most engaged and had the strongest purchasing response, highlighting a key opportunity for future regional targeting and campaign optimization.
+
+![photo 9 ](https://github.com/user-attachments/assets/144dd151-2f0b-464e-9833-d7cc9e47bbaf)
+
+This chart shows the average number of days customers took to make a purchase after receiving the campaign message, broken down by region. The **East** region demonstrated the quickest response, with customers making purchases in an average of **14** days. In comparison, customers in the **West** and **South** regions took around 15 days, while those in the **North** averaged **16** days.
+This suggests that customers in the **East** zone were more prompt and responsive to the offer, indicating stronger urgency or interest. These insights can help in tailoring future campaign timings and follow-up strategies for each region.
 
