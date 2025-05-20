@@ -97,7 +97,7 @@ Consider dynamic messaging for different regions, such as promoting groceries mo
 
 Launch some exciting camapign to attact the customers and increase the active of customers .
 
-**Strengthen Campaign Channels**
+- **Strengthen Campaign Channels**
 
 Expand the use of App Notifications, which demonstrated high engagement and quick customer response in 2025.
 
