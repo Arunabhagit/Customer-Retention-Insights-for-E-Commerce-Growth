@@ -33,8 +33,16 @@ The campaign achieved an impressive conversion rate of **79.2%**, reflecting str
 
 ![photo 3](https://github.com/user-attachments/assets/b88b12c5-b778-46c8-90c1-8aaad6071cbd)
 
-Out of the 800 customers analyzed, **68%** remained active following the offer campaign. This indicates a significant level of sustained engagement, suggesting that the campaign not only encouraged initial purchases but also contributed to reactivating and retaining a large portion of the customer base effectively.
+Out of the **800** customers analyzed, **68%** remained active following the offer campaign. This indicates a significant level of sustained engagement, suggesting that the campaign not only encouraged initial purchases but also contributed to reactivating and retaining a large portion of the customer base effectively.
 
-![photo 4 ](https://github.com/user-attachments/assets/7443a668-50b8-4cd2-893f-6d5317c4f857)
+![photo 8](https://github.com/user-attachments/assets/30325cbf-8aef-45b9-9f98-53a9d35fa256)
 
-The chart illustrates that the Groceries category achieved the highest total revenue at $35.16K, closely followed by Electronics and Beauty. In all categories, active customers contributed the majority of the revenue, reflecting strong engagement post-campaign. Even in categories like Books and Home, inactive users showed notable participation, indicating broad campaign impact.
+The chart illustrates that the Groceries category achieved the highest total revenue at **35.16K**, closely followed by Electronics and Beauty. In all categories, active customers contributed the majority of the revenue, reflecting strong engagement post-campaign. Even in categories like Books and Home, inactive users showed notable participation, indicating broad campaign impact.
+
+![photo 5](https://github.com/user-attachments/assets/6afb1f4b-61a0-48dd-aa4d-5dd511ff6c7d)
+
+It shows the number of customers reached by each campaign type across different product categories. As we can see, **App Notifications** performed best overall, especially for **Groceries** product, which had the highest customer engagement. **SMS Reminders** also did quite well, particularly for the **Beauty** and **Books** categories.
+Meanwhile, **Loyalty Offers** and **Emails** showed steady performance across all categories, indicating they’re reliable methods for broader reach. This chart helps us understand which campaign types work best for specific product categories, and can guide us in optimizing future marketing strategies.
+
+
+
