@@ -55,9 +55,11 @@ This suggests that customers in the **East** zone were more prompt and responsiv
 
 ![Screenshot 2025-05-20 112407](https://github.com/user-attachments/assets/ef4b73ff-c024-45fc-b0d1-206e450d833a)
 
-The yearly **signup** chart clearly shows a significant upward trend from the 2024 to the 2025 campaign. Both customer signups  have increased rapidly, indicating the growing effectiveness of marketing efforts and stronger customer engagement. This positive trajectory reflects successful campaign execution and rising brand loyalty.
+The yearly **signup** chart clearly shows a significant upward trend from  the **2025** campaign. Customer signups  have increased rapidly, indicating the growing effectiveness of marketing efforts and stronger customer engagement. This positive trajectory reflects successful campaign execution and rising brand loyalty.
 
 # Growth Comparison with Last Year’s Retention Campaign
+
+Let’s compare the June 2024 retention campaign with this year’s April 2025 campaign to evaluate growth in customer retention. The analysis reveals a noticeable increase in both customer engagement and overall market reach. This upward trend highlights the growing impact of our campaigns and reflects stronger customer loyalty and improved marketing effectiveness year over year.
 
 
 
