@@ -91,32 +91,27 @@ Dear Marketing Lead ,
 
 I have analyze the retention campaign data and got some Insights. I have some recommendation to the marketing team
 
-**Enhance Personalization and Targeting**
+- **Enhance Personalization and Targeting**
+  Consider dynamic messaging for different regions, such as promoting groceries more in the East where recent performance has improved significantly.
 
-Consider dynamic messaging for different regions, such as promoting groceries more in the East where recent performance has improved significantly.
-
-Launch some exciting camapign to attact the customers and increase the active of customers .
-
+  Launch some exciting camapign to attact the customers and increase the active of customers .
 - **Strengthen Campaign Channels**
+  Expand the use of App Notifications, which demonstrated high engagement and quick customer response in 2025.
 
-Expand the use of App Notifications, which demonstrated high engagement and quick customer response in 2025.
+  Continue utilizing Loyalty Offers, especially for frequent buyers, as they were the most effective channel in the previous campaign.
 
-Continue utilizing Loyalty Offers, especially for frequent buyers, as they were the most effective channel in the previous campaign.
+  Also engage with customers through out mails and SMS efining content, delivery timing, and subject lines to boost open and conversion rates.
 
-Also engage with customers through out mails and SMS efining content, delivery timing, and subject lines to boost open and conversion rates.
-
-**Focus on High-Performing Regions**
+- **Focus on High-Performing Regions**
 
 Prioritize campaign investments in the North, which consistently generated the highest revenue, and the East, which showed notable growth this year.
 
-**Optimize Product Category Promotions**
+- **Optimize Product Category Promotions**
+  Promote a mix of essentials and high-margin products to balance customer needs with business profitability.
+  
+  Give Some Loyality Offer some expensive items mainly Electronics products.
 
-Promote a mix of essentials and high-margin products to balance customer needs with business profitability.
-
-Give Some Loyality Offer some expensive items mainly Electronics products.
-
-**Monitor and Optimize Campaign Performance**
-
-Set clear KPIs for the campaign, such as conversion rate, revenue per user, repeat purchase rate, and active user percentage.
+- **Monitor and Optimize Campaign Performance**
+  Set clear KPIs for the campaign, such as conversion rate, revenue per user, repeat purchase rate, and active user percentage.
 
 
