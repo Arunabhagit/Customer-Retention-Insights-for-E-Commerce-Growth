@@ -103,8 +103,7 @@ I have analyze the retention campaign data and got some Insights. I have some re
   Also engage with customers through out mails and SMS efining content, delivery timing, and subject lines to boost open and conversion rates.
 
 - **Focus on High-Performing Regions**
-
-Prioritize campaign investments in the North, which consistently generated the highest revenue, and the East, which showed notable growth this year.
+  Prioritize campaign investments in the North, which consistently generated the highest revenue, and the East, which showed notable growth this year.
 
 - **Optimize Product Category Promotions**
   Promote a mix of essentials and high-margin products to balance customer needs with business profitability.
@@ -114,4 +113,18 @@ Prioritize campaign investments in the North, which consistently generated the h
 - **Monitor and Optimize Campaign Performance**
   Set clear KPIs for the campaign, such as conversion rate, revenue per user, repeat purchase rate, and active user percentage.
 
+# References
 
+- **Get The Dataset From Kaggle** : https://www.kaggle.com/datasets/arunabha9163/customer-retention-campaign
+
+- **Get customer retention Stratigies** : https://www.zendesk.com/in/blog/customer-retention/
+
+- **Get Data Analytics Project Idea** : https://www.zendesk.com/in/blog/customer-retention/
+
+# Contact Details
+
+**Linkedln Profile** : https://www.linkedin.com/in/arunabha2024/
+
+**Email ID** : bhattacharyyaarun2001@gmail.com
+
+Fill Free to contact any Doubts
