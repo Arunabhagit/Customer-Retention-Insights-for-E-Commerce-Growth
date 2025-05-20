@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project focuses on analyzing the performance of an **E-Commerce 50% discount campaign launched on April 1st, 2025**, targeting loyal customers. The campaign aimed to boost customer engagement and repeat purchases through a strategic loyalty discount offer. The marketing team sought to evaluate the campaign's effectiveness by examining key performance indicators such as conversion rate, customer response, revenue impact, and engagement across different regions and customer segments.
+This project focuses on analyzing the performance of an **E-Commerce 75% discount On First Purchase campaign launched on April 1st, 2025**, targeting loyal customers. The campaign aimed to boost customer engagement and repeat purchases through a strategic loyalty discount offer. The marketing team sought to evaluate the campaign's effectiveness by examining key performance indicators such as conversion rate, customer response, revenue impact, and engagement across different regions and customer segments.
 To fulfill this objective, a comprehensive data analysis was conducted using **Power BI**. The analysis includes metrics such as total campaign reach, response rate, post-campaign revenue, and segment-wise performance breakdowns. The insights derived from this analysis are intended to inform future marketing strategies and help optimize campaign targeting for improved business outcomes.
 
 # Data Used 
@@ -13,7 +13,7 @@ For this analysis, two structured datasets were used:
 
 **June 2024 Campaign Data**: This dataset similarly contains information for 800 customers from an earlier loyalty campaign conducted in June 2024. It serves as a benchmark for comparing customer behavior, conversion patterns, and segment-wise engagement over time.
 
-Both datasets represent clustered samples of 800 customers each, drawn from a significantly larger customer population. They provide a basis for evaluating the performance and impact of loyalty campaigns across different time periods.
+Both datasets represent **clustered samples of 800 customers each**, drawn from a significantly larger customer population. They provide a basis for evaluating the performance and impact of loyalty campaigns across different time periods.
 
 # Objectives 
 
@@ -71,10 +71,52 @@ The conversion rate—representing the percentage of customers who made a purcha
 
 ![photo 15](https://github.com/user-attachments/assets/85277c2c-370f-45b2-b4d0-03c6818a05f9)
 
+Compared to last year, the number of active users has increased by approximately **20%**. In the 2024 campaign, inactive users slightly outnumbered active ones, indicating weaker retention. However, this year’s campaign led to a significant improvement, with **68%** of users remaining active post-campaign, demonstrating a much stronger customer retention outcome.
 
+![photo 19](https://github.com/user-attachments/assets/67713ea6-2289-400f-9843-00a671a0c538)
 
+We observed a significant shift in purchasing behavior between product categories. In the 2024 campaign, customers primarily purchased **home décor** items during the offer period. However, in 2025, **groceries** became the top-selling category. This change is likely influenced by seasonal demand and the **rising prices** of essential goods, driving more practical purchases.
 
+![photo 19](https://github.com/user-attachments/assets/ae51974b-0482-423f-aecb-9a5201fd9438)
 
+In the 2025 campaign, a new feature—**App Notifications**—was introduced to deliver the offer directly to customers, which proved to be highly effective and well-received. In contrast, the 2024 campaign saw **Loyalty Offers** as the most utilized method among frequent customers. Additionally, both years included **SMS** and **Email** communications to promote the campaign and ensure wider reach.
 
+![photo 19](https://github.com/user-attachments/assets/5d3b67bb-c7e4-4b81-ba1f-da3413ee0671)
+
+The revenue generated after the campaign significantly increased this year compared to last year. In both years, customers from the **North** region made the highest number of purchases, contributing the most to overall revenue. Notably, in 2025, the **East** region showed remarkable growth, emerging as a strong contributor to revenue generation.
+
+# Recomendations to Marketing Team
+
+Dear Marketing Lead ,
+
+I have analyze the retention campaign data and got some Insights. I have some recommendation to the marketing team
+
+**Enhance Personalization and Targeting**
+
+Consider dynamic messaging for different regions, such as promoting groceries more in the East where recent performance has improved significantly.
+
+Launch some exciting camapign to attact the customers and increase the active of customers .
+
+**Strengthen Campaign Channels**
+
+Expand the use of App Notifications, which demonstrated high engagement and quick customer response in 2025.
+
+Continue utilizing Loyalty Offers, especially for frequent buyers, as they were the most effective channel in the previous campaign.
+
+Also engage with customers through out mails and SMS efining content, delivery timing, and subject lines to boost open and conversion rates.
+
+**Focus on High-Performing Regions**
+
+Prioritize campaign investments in the North, which consistently generated the highest revenue, and the East, which showed notable growth this year.
+
+**Optimize Product Category Promotions**
+
+Promote a mix of essentials and high-margin products to balance customer needs with business profitability.
+
+Give Some Loyality Offer some expensive items mainly Electronics products.
+
+**Monitor and Optimize Campaign Performance**
+
+Set clear KPIs for the campaign, such as conversion rate, revenue per user, repeat purchase rate, and active user percentage.
 
 
