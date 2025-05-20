@@ -3,7 +3,7 @@
 # Introduction
 
 This project focuses on analyzing the performance of an **E-Commerce 50% discount campaign launched on April 1st, 2025**, targeting loyal customers. The campaign aimed to boost customer engagement and repeat purchases through a strategic loyalty discount offer. The marketing team sought to evaluate the campaign's effectiveness by examining key performance indicators such as conversion rate, customer response, revenue impact, and engagement across different regions and customer segments.
-To fulfill this objective, a comprehensive data analysis was conducted using Power BI. The analysis includes metrics such as total campaign reach, response rate, post-campaign revenue, and segment-wise performance breakdowns. The insights derived from this analysis are intended to inform future marketing strategies and help optimize campaign targeting for improved business outcomes.
+To fulfill this objective, a comprehensive data analysis was conducted using **Power BI**. The analysis includes metrics such as total campaign reach, response rate, post-campaign revenue, and segment-wise performance breakdowns. The insights derived from this analysis are intended to inform future marketing strategies and help optimize campaign targeting for improved business outcomes.
 
 # Data Used 
 
@@ -63,5 +63,17 @@ Let’s compare the June 2024 retention campaign with this year’s April 2025 c
 
 ![photo 11](https://github.com/user-attachments/assets/fee461e3-8b5b-43bc-a8ed-3604d701853a)
 
-Compared to last year’s campaign, we sent 5% more offers this year. On the positive side, customer purchases increased by 21%, indicating stronger engagement. Additionally, the number of customers who did not make a purchase decreased by 25%, reflecting a significant improvement in campaign effectiveness and customer response.
+Compared to last year’s campaign, we sent 5% more offers this year. On the positive side, customer purchases increased by **21%**, indicating stronger engagement. Additionally, the number of customers who did not make a purchase decreased by **25%**, reflecting a significant improvement in campaign effectiveness and customer response.
+
+![photo 12](https://github.com/user-attachments/assets/0006f7be-8525-4e46-83cc-d7a402da08e2)
+
+The conversion rate—representing the percentage of customers who made a purchase after receiving the offer—increased by **11%** compared to last year. Furthermore, post-campaign revenue saw a remarkable **50%** growth, highlighting a significant improvement in both customer response and overall campaign success year over year.
+
+
+
+
+
+
+
+
 
