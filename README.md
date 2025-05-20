@@ -17,7 +17,7 @@ Both datasets represent **clustered samples of 800 customers each**, drawn from 
 
 # Objectives 
 
-The primary objective of this project is to analyze the effectiveness of the April 2025 customer retention campaign aimed at re-engaging inactive customers through targeted loyalty offers. Key goals include identifying the targeted customer group, calculating the campaign's conversion rate, and measuring changes in customer behavior post-campaign. The project also evaluates revenue impact, customer segmentation performance, compareing with last year campaign. Additionally, it aims to uncover which marketing channels and customer segments responded best, enabling data-driven decisions to optimize future campaigns and improve long-term customer retention.
+The primary objective of this project is to analyze the effectiveness of the **April 2025** customer retention campaign aimed at re-engaging inactive customers through targeted loyalty offers. Key goals include identifying the targeted customer group, calculating the campaign's **conversion rate**, and measuring changes in customer behavior post-campaign. The project also evaluates revenue **impact**,**customer segmentation performance**, **compareing with last year campaign**. Additionally, it aims to uncover which marketing channels and customer segments responded best, enabling data-driven decisions to optimize future campaigns and improve long-term customer retention.
 
 # Insights Got From 2025 April Customer Retention Campaign 
 
