@@ -26,3 +26,9 @@ After receiving the mail from the Marketing Lead, I created a Power BI dashboard
 ![photo 1](https://github.com/user-attachments/assets/5df0f14b-fa8b-442e-957b-526505c6685c)
 
 Out of a sample of **800** customers, **659** received the campaign offer. Among them, **522** customers accepted the offer and made a purchase, demonstrating a strong engagement rate and indicating the campaign's effectiveness in driving customer action.
+
+![photo 2 ](https://github.com/user-attachments/assets/bc747c8a-1b94-4515-808a-28d6956f6093)
+
+The campaign achieved an impressive conversion rate of **79.2%**, reflecting strong customer engagement. This positive response indicates that the offer was well-received and effectively attracted attention. Additionally, a noticeable increase in revenue after the campaign confirms its success in encouraging purchases and driving customer interest.
+
+
