@@ -61,5 +61,7 @@ The yearly **signup** chart clearly shows a significant upward trend from  the *
 
 Let’s compare the June 2024 retention campaign with this year’s April 2025 campaign to evaluate growth in customer retention. The analysis reveals a noticeable increase in both customer engagement and overall market reach. This upward trend highlights the growing impact of our campaigns and reflects stronger customer loyalty and improved marketing effectiveness year over year.
 
+![photo 11](https://github.com/user-attachments/assets/fee461e3-8b5b-43bc-a8ed-3604d701853a)
 
+Compared to last year’s campaign, we sent 5% more offers this year. On the positive side, customer purchases increased by 21%, indicating stronger engagement. Additionally, the number of customers who did not make a purchase decreased by 25%, reflecting a significant improvement in campaign effectiveness and customer response.
 
