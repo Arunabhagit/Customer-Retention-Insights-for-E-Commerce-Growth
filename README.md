@@ -57,5 +57,7 @@ This suggests that customers in the **East** zone were more prompt and responsiv
 
 The yearly **signup** and **revenue** chart clearly shows a significant upward trend from the 2024 to the 2025 campaign. Both customer signups and overall revenue have increased rapidly, indicating the growing effectiveness of marketing efforts and stronger customer engagement. This positive trajectory reflects successful campaign execution and rising brand loyalty.
 
+# Growth Comparison with Last Year’s Retention Campaign
+
 
 
