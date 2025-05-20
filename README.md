@@ -31,4 +31,7 @@ Out of a sample of **800** customers, **659** received the campaign offer. Among
 
 The campaign achieved an impressive conversion rate of **79.2%**, reflecting strong customer engagement. This positive response indicates that the offer was well-received and effectively attracted attention. Additionally, a noticeable increase in revenue after the campaign confirms its success in encouraging purchases and driving customer interest.
 
+![photo 3](https://github.com/user-attachments/assets/b88b12c5-b778-46c8-90c1-8aaad6071cbd)
+
+Out of the 800 customers analyzed, 68% remained active following the offer campaign. This indicates a significant level of sustained engagement, suggesting that the campaign not only encouraged initial purchases but also contributed to reactivating and retaining a large portion of the customer base effectively.
 
