@@ -53,3 +53,9 @@ It’s clear that the **West** region achieved the highest conversion rate at **
 This chart shows the average number of days customers took to make a purchase after receiving the campaign message, broken down by region. The **East** region demonstrated the quickest response, with customers making purchases in an average of **14** days. In comparison, customers in the **West** and **South** regions took around **15** days, while those in the **North** averaged **16** days.
 This suggests that customers in the **East** zone were more prompt and responsive to the offer, indicating stronger urgency or interest. These insights can help in tailoring future campaign timings and follow-up strategies for each region.
 
+![photo 10](https://github.com/user-attachments/assets/ab62a337-c0f6-4ea0-889d-869510fce181)
+
+The yearly **signup** and **revenue** chart clearly shows a significant upward trend from the 2024 to the 2025 campaign. Both customer signups and overall revenue have increased rapidly, indicating the growing effectiveness of marketing efforts and stronger customer engagement. This positive trajectory reflects successful campaign execution and rising brand loyalty.
+
+
+
