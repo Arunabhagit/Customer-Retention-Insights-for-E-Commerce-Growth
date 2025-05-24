@@ -1,4 +1,4 @@
-#  E-Commerce Retention Campaign Analysis
+#  E-Commerce Customer Retention Campaign Analysis
 
 # Introduction
 
